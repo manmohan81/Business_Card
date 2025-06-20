@@ -36,7 +36,7 @@ st.markdown("""
 <div class="contact-info">
   <div class="contact-item">
     <span class="contact-label">Email:</span>
-    <span>manmohan.rawat@gmail.com</span>
+    <span>manmohan.rawat7@gmail.com</span>
   </div>
   <div class="contact-item">
     <span class="contact-label">Phone:</span>
