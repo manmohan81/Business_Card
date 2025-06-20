@@ -54,7 +54,7 @@ st.markdown("""
 
 <div class="social-links">
   <a href="https://linkedin.com/in/manmohanrawat" class="social-link" target="_blank">LinkedIn Profile</a>
-  <a href="https:mybusinesscard2025.netlify.app" class="social-link" target="_blank">Personal Website</a>
+  <a href="https://mybusinesscard2025.netlify.app" class="social-link" target="_blank">Personal Website</a>
 </div>
 """, unsafe_allow_html=True)
 
