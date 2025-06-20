@@ -5,7 +5,7 @@ import os
 
 st.set_page_config(page_title="Streamlit + Frontend App", layout="wide")
 
-st.title("🚀 MANMOHAN + Vite Frontend")
+st.title("🚀 MANMOHAN SINGH RAWAT'S PROFILE")
 
 # Render HTML with proper styling and clickable text links
 st.markdown("""
@@ -36,7 +36,7 @@ st.markdown("""
 <div class="contact-info">
   <div class="contact-item">
     <span class="contact-label">Email:</span>
-    <span>manmohan.rawat@gmail.com</span>
+    <span>manmohan.rawat7@gmail.com</span>
   </div>
   <div class="contact-item">
     <span class="contact-label">Phone:</span>
@@ -48,7 +48,7 @@ st.markdown("""
   </div>
   <div class="contact-item">
     <span class="contact-label">Experience:</span>
-    <span>22 Years • Design & Development</span>
+    <span>22 Years • Mechanical Design </span>
   </div>
 </div>
 
